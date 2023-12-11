@@ -3,7 +3,7 @@ Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... RSS Reader Website
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... MERN Stack
 - 👯 I’m looking to collaborate on ... Machine Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
