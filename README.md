@@ -16,11 +16,13 @@ I'm a web developer based in India who is passionate about everything related to
 #### Database
 [![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/avinash-pandeyanf)
 
+#### Data Visualization
+[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.com/avinash-pandeyanf)
+
 #### Front-End Frameworks
 [![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/avinash-pandeyanf)
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://github.com/avinash-pandeyanf)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/avinash-pandeyanf)
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.com/avinash-pandeyanf)
 
 #### Front-End UI Components
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://github.com/avinash-pandeyanf)
